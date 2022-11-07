@@ -1,0 +1,683 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/projectTP3/simulation/modelsim
+vadder
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1667851847
+!i10b 1
+!s100 a3zDN1NYD4EHE0kQDg6Iz2
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Iiz@]zJP3B8AIJd4RS:Y2`3
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1663165290
+8/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/adder.sv
+F/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/adder.sv
+!i122 10
+L0 3 7
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1667851847.000000
+!s107 /home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/adder.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3|/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/adder.sv|
+!i113 1
+Z7 o-sv -work work
+Z8 !s92 -sv -work work +incdir+/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3
+Z9 tCvgOpt 0
+valu
+R1
+R2
+!i10b 1
+!s100 6[CUJNOo]50<CbgVzlF9=0
+R3
+IH;g8_GazQh2lPI`[gGA6i0
+R4
+S1
+R0
+Z10 w1662584750
+8/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/alu.sv
+F/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/alu.sv
+!i122 9
+L0 1 23
+R5
+r1
+!s85 0
+31
+Z11 !s108 1667851846.000000
+!s107 /home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/alu.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3|/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/alu.sv|
+!i113 1
+R7
+R8
+R9
+valudec
+R1
+Z12 !s110 1667851846
+!i10b 1
+!s100 :;H73aVU>X;gEYYfBOVnz2
+R3
+I2i8^cbOE<g?V[g;^CDLHz1
+R4
+S1
+R0
+w1667850381
+8/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/aludec.sv
+F/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/aludec.sv
+!i122 8
+L0 3 13
+R5
+r1
+!s85 0
+31
+R11
+!s107 /home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/aludec.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3|/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/aludec.sv|
+!i113 1
+R7
+R8
+R9
+vcomp_n
+R1
+R12
+!i10b 1
+!s100 Dm`cCX=YPhoG[f>@I0`f82
+R3
+I68]L4>>k=n;P>^I@aLP[f2
+R4
+S1
+R0
+w1663810457
+8/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/new/comp_n.sv
+F/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/new/comp_n.sv
+!i122 0
+L0 1 7
+R5
+r1
+!s85 0
+31
+R11
+!s107 /home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/new/comp_n.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/new|/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/new/comp_n.sv|
+!i113 1
+R7
+Z13 !s92 -sv -work work +incdir+/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/new
+R9
+vcontroller
+R1
+R12
+!i10b 1
+!s100 ViS3BiNh>cY?B3:2;zYVS2
+R3
+IY0QzT7K<UMGQnhADl4_Fd1
+R4
+S1
+R0
+w1663811187
+8/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/controller.sv
+F/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/controller.sv
+!i122 7
+L0 3 41
+R5
+r1
+!s85 0
+31
+R11
+!s107 /home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/controller.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3|/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/controller.sv|
+!i113 1
+R7
+R8
+R9
+vdatapath
+R1
+R12
+!i10b 1
+!s100 EdiRBk8jBJYADk;<C3f1U3
+R3
+IBda3GRDmUdo;_U=S7ojAR1
+R4
+S1
+R0
+w1667848139
+8/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/datapath.sv
+F/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/datapath.sv
+!i122 6
+L0 3 94
+R5
+r1
+!s85 0
+31
+R11
+!s107 /home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/datapath.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3|/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/datapath.sv|
+!i113 1
+R7
+R8
+R9
+vdecode
+R1
+R12
+!i10b 1
+!s100 ez[Sj6NLDB;VJc@X`e1Ui0
+R3
+I28;dK>nJM7:38`fF[8zAI2
+R4
+S1
+R0
+Z14 w1662539942
+8/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/decode.sv
+F/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/decode.sv
+!i122 5
+L0 3 17
+R5
+r1
+!s85 0
+31
+R11
+!s107 /home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/decode.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3|/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/decode.sv|
+!i113 1
+R7
+R8
+R9
+Edmem
+Z15 w1662547516
+Z16 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z17 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z18 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+Z19 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z20 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 23
+R0
+Z21 8/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/dmem.vhd
+Z22 F/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/dmem.vhd
+l0
+L12 1
+Vbn3b0?2?3c<CA[;DdzR8^2
+!s100 9UhgcemjCI:F<bA>GRZY=0
+Z23 OV;C;2020.1;71
+33
+R2
+!i10b 1
+R6
+Z24 !s90 -reportprogress|300|-2008|-work|work|/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/dmem.vhd|
+Z25 !s107 /home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/dmem.vhd|
+!i113 1
+Z26 o-2008 -work work
+Z27 tExplicit 1 CvgOpt 0
+Abehave
+R16
+R17
+R18
+R19
+R20
+DEx4 work 4 dmem 0 22 bn3b0?2?3c<CA[;DdzR8^2
+!i122 23
+l51
+L21 50
+VnIZY2X9Xa5_8Pk?ZjHKi13
+!s100 TLjT4TR[>kN][VnUoS[nG3
+R23
+33
+R2
+!i10b 1
+R6
+R24
+R25
+!i113 1
+R26
+R27
+vesync
+R1
+R12
+!i10b 1
+!s100 MhR0J0k?aZEOeHEebCjZI2
+R3
+In@<^_`85>D82a[61ce09R3
+R4
+S1
+R0
+w1663168204
+8/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/esync.sv
+F/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/esync.sv
+!i122 4
+L0 1 9
+R5
+r1
+!s85 0
+31
+R11
+!s107 /home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/esync.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3|/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/esync.sv|
+!i113 1
+R7
+R8
+R9
+vexception
+R1
+R12
+!i10b 1
+!s100 `Li6:3F?63JT6=UWQ9WM10
+R3
+I7KCPcNcNE09m3lL;7bA9M0
+R4
+S1
+R0
+w1663810835
+8/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/new/exception.sv
+F/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/new/exception.sv
+!i122 1
+L0 1 29
+R5
+r1
+!s85 0
+31
+R11
+!s107 /home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/new/exception.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/new|/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/new/exception.sv|
+!i113 1
+R7
+R13
+R9
+vexecute
+R1
+R12
+!i10b 1
+!s100 i[V9PSbfY4bb3jX]Z_6eL2
+R3
+If^DmS<UIA;F=gmM`=:UcJ0
+R4
+S1
+R0
+w1667848801
+8/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/execute.sv
+F/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/execute.sv
+!i122 3
+L0 1 19
+R5
+r1
+!s85 0
+31
+R11
+!s107 /home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/execute.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3|/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/execute.sv|
+!i113 1
+R7
+R8
+R9
+vfetch
+R1
+R2
+!i10b 1
+!s100 zkBjEfCXJOl]iI;Li[o_n1
+R3
+INOfTZAaKHT5Ul]1YZk@3Y0
+R4
+S1
+R0
+w1667848710
+8/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/fetch.sv
+F/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/fetch.sv
+!i122 21
+Z28 L0 1 15
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/fetch.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3|/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/fetch.sv|
+!i113 1
+R7
+R8
+R9
+vflopr
+R1
+R2
+!i10b 1
+!s100 SV]h@zH5Nfcg@5zRgoQC@0
+R3
+IR_4?G0?G1SODV2EV4IoKA1
+R4
+S1
+R0
+R10
+8/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/flopr.sv
+F/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/flopr.sv
+!i122 20
+Z29 L0 1 10
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/flopr.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3|/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/flopr.sv|
+!i113 1
+R7
+R8
+R9
+vflopr_e
+R1
+R2
+!i10b 1
+!s100 8GR1]g;iAWdoIzndShj3S0
+R3
+IV@Ac@e<Kd`<84?L:4WM8`0
+R4
+S1
+R0
+w1663166888
+8/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/new/flopr_e.sv
+F/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/new/flopr_e.sv
+!i122 22
+R29
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/new/flopr_e.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/new|/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/new/flopr_e.sv|
+!i113 1
+R7
+R13
+R9
+vimem
+R1
+R2
+!i10b 1
+!s100 _PUkQ4UFAT`OTC@KhME8a2
+R3
+I98bAe0A2`GzXYL`N@H_813
+R4
+S1
+R0
+w1663814803
+8/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/imem.sv
+F/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/imem.sv
+!i122 19
+L0 1 93
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/imem.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3|/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/imem.sv|
+!i113 1
+R7
+R8
+R9
+vmaindec
+R1
+R2
+!i10b 1
+!s100 lhK>c8YRFFizgeA^zeAUj0
+R3
+I]Q6=?n3d_OX^jCVRoK05U3
+R4
+S1
+R0
+w1667849728
+8/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/maindec.sv
+F/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/maindec.sv
+!i122 18
+L0 1 79
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/maindec.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3|/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/maindec.sv|
+!i113 1
+R7
+R8
+R9
+vmemory
+R1
+R2
+!i10b 1
+!s100 LP[7i;OQNRmgDe[<ZEPcc0
+R3
+I98HeRWb`Fc]7B6oS9BME40
+R4
+S1
+R0
+R14
+8/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/memory.sv
+F/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/memory.sv
+!i122 17
+L0 3 6
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/memory.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3|/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/memory.sv|
+!i113 1
+R7
+R8
+R9
+vmux2
+R1
+R2
+!i10b 1
+!s100 XfdfLdSb9dmK[VUYkeA:Q1
+R3
+I^zHf^R:WdX;7K[VakB[S:3
+R4
+S1
+R0
+w1663167680
+8/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/mux2.sv
+F/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/mux2.sv
+!i122 16
+Z30 L0 3 8
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/mux2.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3|/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/mux2.sv|
+!i113 1
+R7
+R8
+R9
+vmux4
+R1
+R12
+!i10b 1
+!s100 4[RMgWB<1^6=dTKkWG:^T1
+R3
+IfMNG1`X_m5:kAD=B:[9a01
+R4
+S1
+R0
+w1663169228
+8/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/new/mux4.sv
+F/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/new/mux4.sv
+!i122 2
+L0 1 13
+R5
+r1
+!s85 0
+31
+R11
+!s107 /home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/new/mux4.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/new|/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/new/mux4.sv|
+!i113 1
+R7
+R13
+R9
+vprocessor_arm
+R1
+R2
+!i10b 1
+!s100 bg6Je4YINX7hE[Ch9[7eQ1
+R3
+IlE9W7D8ozYaFY^P?D<oX=3
+R4
+S1
+R0
+w1663809742
+8/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/processor_arm.sv
+F/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/processor_arm.sv
+!i122 15
+L0 3 69
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/processor_arm.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3|/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/processor_arm.sv|
+!i113 1
+R7
+R8
+R9
+vprocessor_tb
+R1
+R2
+!i10b 1
+!s100 X=PFD<OA^7H>Gi?:RIT0k1
+R3
+I5LhjfIge[EGFKo9FMKO461
+R4
+S1
+R0
+w1667851791
+8/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/projectTP3/../modulesTP3/processor_tb.sv
+F/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/projectTP3/../modulesTP3/processor_tb.sv
+!i122 24
+L0 4 45
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/projectTP3/../modulesTP3/processor_tb.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/projectTP3/../modulesTP3|/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/projectTP3/../modulesTP3/processor_tb.sv|
+!i113 1
+R7
+!s92 -sv -work work +incdir+/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/projectTP3/../modulesTP3
+R9
+vregfile
+R1
+R2
+!i10b 1
+!s100 XHC400<A^ln]BF<Zzg=]d3
+R3
+IbD=_AkMeCen>RTIL0hkO=3
+R4
+S1
+R0
+R10
+8/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/regfile.sv
+F/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/regfile.sv
+!i122 14
+L0 1 21
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/regfile.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3|/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/regfile.sv|
+!i113 1
+R7
+R8
+R9
+vsignext
+R1
+R2
+!i10b 1
+!s100 NfK_j4B2>W9lAO_FTIM0e0
+R3
+IN3HIf;:<:eo[hUTg33JY91
+R4
+S1
+R0
+R10
+8/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/signext.sv
+F/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/signext.sv
+!i122 13
+R28
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/signext.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3|/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/signext.sv|
+!i113 1
+R7
+R8
+R9
+vsl2
+R1
+R2
+!i10b 1
+!s100 `c@h0_TfTnn`3CajieZiC2
+R3
+IJO=D6PL5DF8QCJj=AYTiX2
+R4
+S1
+R0
+R10
+8/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/sl2.sv
+F/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/sl2.sv
+!i122 12
+L0 3 9
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/sl2.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3|/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/sl2.sv|
+!i113 1
+R7
+R8
+R9
+vwriteback
+R1
+R2
+!i10b 1
+!s100 lem0cZaoaK<4K2n`WO?nY2
+R3
+IMNom9hBkb2JmZc2dX`N4e0
+R4
+S1
+R0
+R14
+8/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/writeback.sv
+F/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/writeback.sv
+!i122 11
+R30
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/writeback.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3|/home/basbenja/Documents/3.2/ARQUITECTURA/Arquitectura-de-Computadoras-2022/Practico3/modulesTP3/writeback.sv|
+!i113 1
+R7
+R8
+R9

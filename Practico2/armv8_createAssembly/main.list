@@ -1,0 +1,17 @@
+
+main.elf:     formato del fichero elf64-littleaarch64
+
+
+Desensamblado de la sección .text:
+
+0000000000000000 <mult>:
+   0:	8b110231 	add	x17, x17, x17
+   4:	cb010042 	sub	x2, x2, x1
+   8:	b4000042 	cbz	x2, 10 <store>
+   c:	b4ffffbf 	cbz	xzr, 0 <mult>
+
+0000000000000010 <store>:
+  10:	f8000011 	stur	x17, [x0]
+
+0000000000000014 <infLoop>:
+  14:	b400001f 	cbz	xzr, 14 <infLoop>
